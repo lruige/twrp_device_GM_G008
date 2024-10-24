@@ -1,0 +1,3 @@
+PROCUST_MAKEFILES := \ 
+$(LOCAL_DIR)/GM_G008.mk \ 
+$(LOCAL_DIR)/omni_GM_G008.mk
