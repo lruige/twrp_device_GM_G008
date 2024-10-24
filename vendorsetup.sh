@@ -1,1 +1,10 @@
-add_lunch_combo omni_GM_G008-userdebug
+#
+# Copyright (C) 2024 The Android Open Source Project
+# Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
+add_lunch_combo omni_GM8_go_sc-user
+add_lunch_combo omni_GM8_go_sc-userdebug
+add_lunch_combo omni_GM8_go_sc-eng

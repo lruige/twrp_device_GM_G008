@@ -1,2 +1,10 @@
-# twrp_device_GM_G008
-General Mobile Genel Android GO cihazlar için _deneysel_ TWRP cihaz ağacı
+# Android device tree for gm GM8 go (GM8_go_sc)
+
+```
+#
+# Copyright (C) 2024 The Android Open Source Project
+# Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```

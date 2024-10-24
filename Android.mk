@@ -1,6 +1,12 @@
-LOCAL_PATH := $(call my-dir) 
+#
+# Copyright (C) 2024 The Android Open Source Project
+# Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
 
-ifeq ($(TARGET_DEVICE),GM_G008) 
-include $(call all-makefiles-under,$(LOCAL_PATH)) 
+LOCAL_PATH := $(call my-dir)
 
+ifeq ($(TARGET_DEVICE),GM8_go_sc)
+include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif
